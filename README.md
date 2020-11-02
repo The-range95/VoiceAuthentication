@@ -7,3 +7,6 @@ API provider:
 
 
 
+# General_Ideas
+
+1. https://clearbridgemobile.com/7-key-predictions-for-the-future-of-voice-assistants-and-ai/
